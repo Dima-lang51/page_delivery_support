@@ -285,7 +285,6 @@ body {
 }
 
 .question-block {
-  position: relative;
   width: 22.03vw;
   height: 12.5vw;
   background: #ffffff;
@@ -308,15 +307,15 @@ body {
   z-index: 0;
   width: 8.125vw;
   height: 12.65vw;
-  top: -1px;
-  left: 13.906vw;
+  top: -5px;
+  left: 13.67vw;
   right: 0;
   bottom: 0;
 }
 
 .img-right {
-  top: 1px;
-  left: 14.218vw;
+  top: -2px;
+  left: 13.906vw;
   right: 0;
   bottom: 0;
 }
